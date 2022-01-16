@@ -26,6 +26,5 @@ class GpsState extends Equatable {
   @override
   String toString() => '{ isGpsEnabled: $isGpsEnabled, isGpsPermissionGranted: $isGpsPermissionGranted }';
 
-
 }
 
